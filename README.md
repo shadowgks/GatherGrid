@@ -19,4 +19,4 @@ To run this project, make sure you have the following:
 1. Clone this repository to your machine.
 
    ```bash
-git clone https://github.com/shadowgks/GatherGrid
+   git clone https://github.com/shadowgks/GatherGrid.git
